@@ -2,8 +2,8 @@
 
 I'm **Stiven Agudelo Cuervo**, a passionate Computer Engineer with a focus on continuous learning and tackling new challenges. Currently in the final semester of my degree at the University of Envigado, I specialize in data analysis, machine learning, and software development.
 
--  **Currently working on**: Building a data-driven tool for automating and optimizing business processes.
--  **Currently learning**: Advanced machine learning techniques and data engineering.
+-  **Currently working on**: Building a data-driven tool for automating and ETL´s processes.
+-  **Currently learning**: Advanced machine learning, deep learning techniques and data engineering.
 -  **Ask me about**: Data analysis, machine learning, Python, Angular, and ETL processes.
 -  **How to reach me**: stagudecu@gmail.com
 -  **Check out my**: [Portfolio or LinkedIn]([Your LinkedIn Profile](https://www.linkedin.com/in/stiven-agudelo-cuervo-3175501ba/))
